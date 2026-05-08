@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=1500&color=70A4FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Akuto+👋" alt="Typing SVG" />
 </h1>
-<h3 align="center">👨‍💻 About Me <br>I'm 19 years old and a beginner programmer who loves learning new things and creating my own projects. Interested in Python, Linux, and bot development.</br></h3>
+<h3 align="center">31232131232.</br></h3>
 
 
 
