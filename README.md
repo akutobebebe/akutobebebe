@@ -43,5 +43,5 @@
   <img src="https://raw.githubusercontent.com/akutobebebe/akutobebebe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> 🔧 To activate the snake, add this GitHub Action to your `akutobebebe/akutobebebe` repo: [Platane/snk](https://github.com/Platane/snk#-github-action)
+
 
