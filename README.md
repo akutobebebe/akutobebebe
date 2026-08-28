@@ -1,21 +1,47 @@
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+<img src="https://i.pinimg.com/originals/fb/56/48/fb5648dc6e39b7b724cb0daf3693610f.gif" width="100%"/>
+
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Akuto+%F0%9F%9A%80;Backend+%26+Systems+Developer;Python+%7C+Go;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=1500&color=70A4FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Akuto+👋" alt="Typing SVG" />
-</h1>
-<h3 align="center">31232131232.</br></h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akutobebebe&label=Profile%20Views&color=6C5CE7&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Status-Coding-00D2FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,docker,linux,git,github,vscode,postgres,redis&perline=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akutobebebe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
--->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akutobebebe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
+---
+
+
+
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akutobebebe/akutobebebe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+> 🔧 To activate the snake, add this GitHub Action to your `akutobebebe/akutobebebe` repo: [Platane/snk](https://github.com/Platane/snk#-github-action)
 
